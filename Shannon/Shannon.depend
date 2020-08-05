@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588101476 source:d:\calculatoare numerice notite\temashannon\shannon\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<cstring>
+	<bits/stdc++.h>
+	<string.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<utility>
+
